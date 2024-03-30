@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a simple ERC20 token, which is based on `openzeppelin` templates. It's name is `DrogeToken42` and it's symbol is `DT42`, it has a total supply of 42000 given to the deployer of the contract. It's contract is deployed on the `Sepolia` test network at the address `0xD0282c45CeC4f69E9e1D822EBe10754D008df423`. I've used `remix` to compile and deploy the contract, and `metamask` to interact with it.
+This project is a simple ERC20 token, which is based on `openzeppelin` templates. It's name is `DrogeToken42` and it's symbol is `DT42`, it has a total supply of 42000 given to the deployer of the contract. Its contract is deployed on the `Sepolia` test network at the address `0xD0282c45CeC4f69E9e1D822EBe10754D008df423`. I've used `remix` to compile and deploy the contract, and `metamask` to interact with it.
 
 The reason why I picked the Ethereum ecosystem is because it is the most popular blockchain platform for creating smart contracts. Since I'm on the Ethereum ecosystem, I'm inherently using the `Solidity` programming language.  
 Therefore, it makes sense that I'm using ERC20 because it is the de facto standard for creating fungible tokens on Ethereum. This standardization allows `DrogeToken42` to be easily exchanged, transferred, and integrated into wallets and other contracts without compatibility issues. Other standards such as ERC721 (non-fungible tokens) and ERC777 (advanced fungible tokens) are also available, but ERC20 is more fitting for this project.
